@@ -1,0 +1,61 @@
+main
+{
+    font-size: 40px;
+    text-align: left;
+
+}
+header{
+    background-color: brown;
+    background-image: url(https://resizer.mail.ru/p/5b288264-3fe9-5ef0-9bd2-097db9dea6af/AQAKYv73yisuoDR5fatCk5inEi8SgEhlKMsgSEe4rVqB4pYICG8-ZaEA6Uo2CwvMVY8wQEXhN2ifLTf9p59zO-8d6uw.jpg);
+font-size: 69px;
+padding: 20px;
+text-align: center;
+height: 100px;
+background-size: cover;
+color: #ffffff;
+}
+
+footer{
+    background-color: chocolate;
+color: aliceblue;
+text-align: center;
+padding: 20px;
+}
+
+.social img {
+width: 50px;
+padding-left: 10px;
+}
+
+.social {
+list-style: none;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+main {
+display: flex;
+justify-content: center;
+}
+
+.container{
+
+    background-color: burlywood;
+width: 90%;
+padding: 20px;
+
+}
+
+.block1 {
+
+font-size: 20px;
+text-align: justify;
+
+}
+
+.block2 {
+
+text-align: center;
+
+}
